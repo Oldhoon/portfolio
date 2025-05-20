@@ -60,7 +60,7 @@ https://oldhoon.github.io/portfolio/
 
 ## Credits 
 
-[youtube_link](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=5766s&ab_channel=HowtoBecomeaDeveloper)
--Responsive Portfolio Website From Scratch
--How to Become a Developer
+[link](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=5766s&ab_channel=HowtoBecomeaDeveloper)
+- Responsive Portfolio Website From Scratch
+- How to Become a Developer
 
