@@ -58,7 +58,7 @@ https://oldhoon.github.io/portfolio/
 - **LinkedIn:** [linkedin.com/in/younghoon](https://linkedin.com/in/younghoon)  
 - **GitHub:** [github.com/Oldhoon](https://github.com/Oldhoon)
 
-##Credits 
+## Credits 
 
 [youtube_link](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=5766s&ab_channel=HowtoBecomeaDeveloper)
 -Responsive Portfolio Website From Scratch
